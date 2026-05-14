@@ -33,6 +33,7 @@ public class Main {
             Optional<Path> indexJsonOpt = Optional.empty();
             if (Files.exists(resourcesPath)) {
                 try (Stream<Path> stream = Files.walk(resourcesPath, 1)) {
+                    stream.forEach(p -> System.out.println("Found resource: " + p));
                     indexJsonOpt = stream.filter(p -> p.toString().endsWith(".index.json")).findFirst();
                 }
             }

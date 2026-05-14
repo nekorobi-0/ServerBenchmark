@@ -1,0 +1,238 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.0",
+  "name": "Bench",
+  "summary": "",
+  "files": [
+    {
+      "path": "mods/Mekanism-1.20.1-10.4.16.80.jar",
+      "hashes": {
+        "sha512": "a838bb3fa5550ba3589a81005fde2ca04b5d33417ae65a8060bbc46ba948dec2d16ab0871a55e73e0ca39651b33814eb508b5b85d337e6ed8874b79383f3e6f0",
+        "sha1": "b7f12ae710888b01746507a0aa8cb375f5897158"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ce6I4WUE/versions/uxe1WQp4/Mekanism-1.20.1-10.4.16.80.jar"
+      ],
+      "fileSize": 12558456
+    },
+    {
+      "path": "mods/MekanismTools-1.20.1-10.4.16.80.jar",
+      "hashes": {
+        "sha512": "23384cd2fe7572080004632cf5534b9aca22ea7a8a15b4a5ec34ff43851bc5c6bd36e18a5e76da70954c1c629ebef19bfd9a4a343601f8775d537798a48f2296",
+        "sha1": "0d22b1cc01a33702f1b9e17b26cc55e233a4e7ff"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/tqQpq1lt/versions/VzpFbUpF/MekanismTools-1.20.1-10.4.16.80.jar"
+      ],
+      "fileSize": 517999
+    },
+    {
+      "path": "mods/guideme-20.1.14.jar",
+      "hashes": {
+        "sha512": "15311cb0607205d2da3eb369499b8523bd0d8fa41e30c87c0b0e5756df5ea2123389262e6883f66e6c7b1d43d68e20cdfec73b31c202df8fbb99fa80d4fe7b1d",
+        "sha1": "57d883148f04989128505a1bd8919629440f714f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ck4E7v7R/versions/9YGnKYDF/guideme-20.1.14.jar"
+      ],
+      "fileSize": 9413204
+    },
+    {
+      "path": "mods/modular-routers-12.1.1+mc1.20.1.jar",
+      "hashes": {
+        "sha512": "9b8e00b86abe0c6f94a4359ba28898f5f4125466a281be6d2797eade1901a4b49ac5a1b1ec8be04a0d62d30dbb71a0bb7162f3f9a54b67f361e5157d759dbd41",
+        "sha1": "037b801a55ca30952b98c427a77ac206cb1248c3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/EuTS81Z3/versions/3QDNtJUd/modular-routers-12.1.1%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 1163834
+    },
+    {
+      "path": "mods/MekanismAdditions-1.20.1-10.4.16.80.jar",
+      "hashes": {
+        "sha1": "64e930adf31b23db53412a62b0e8f950e64f7f2d",
+        "sha512": "7f8bf953f11b1fc06e6e41807aa5850c2edc62082da615c9d65b6dc10bfdbbc9e16f334f86e28978495075d56eb141d337266024ece7284b3149a12361485e23"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/a6F3uASn/versions/RFiZ24he/MekanismAdditions-1.20.1-10.4.16.80.jar"
+      ],
+      "fileSize": 1136805
+    },
+    {
+      "path": "mods/appliedenergistics2-forge-15.4.10.jar",
+      "hashes": {
+        "sha512": "edc08a999b57e80426c737efa5b50c6d19ab40cb03f752bc26e2912fe12b989cefd5feff519ce0d87a4717a74c22a99242263ee4de63c1c84f91306d156134ee",
+        "sha1": "ac255a120499f79f8deade474da09e3c00ff9bad"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XxWD5pD3/versions/7KVs6HMQ/appliedenergistics2-forge-15.4.10.jar"
+      ],
+      "fileSize": 8495956
+    },
+    {
+      "path": "mods/rhino-forge-2001.2.3-build.10.jar",
+      "hashes": {
+        "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+        "sha512": "4eb6a635f3eff3baa158539bd55344421cf69b15e28f7da8bf55f370a11c071f3525063a6f81b67fbfca550ad8aaab7e6208df87f65ca6ed2851edd46f032b58"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar"
+      ],
+      "fileSize": 1798244
+    },
+    {
+      "path": "mods/pipez-forge-1.20.1-1.2.26.jar",
+      "hashes": {
+        "sha1": "31d86989352260410122afbb93ca073351a9331c",
+        "sha512": "2479a23c75bbb93e9f3056d9173aeec1882a389cef89ed954f6cdd2e3b4d53ccc7ed7edd51e671499896818eccd873be8c9f686452d14f26593425c20b93b0fb"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iRmWy6ga/versions/Mtjt7u5h/pipez-forge-1.20.1-1.2.26.jar"
+      ],
+      "fileSize": 431616
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-85-FORGE.jar",
+      "hashes": {
+        "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+        "sha512": "15aedda4efcc553d5e3c83aa867b62554bc2fab298b43f55ed324e10507a3605f0ec2c59c01476e6d80b2a49275ef080142e43a6e663f9463b62f520960fc203"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar"
+      ],
+      "fileSize": 642732
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "hashes": {
+        "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+        "sha512": "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
+      ],
+      "fileSize": 580602
+    },
+    {
+      "path": "mods/create-1.20.1-6.0.8.jar",
+      "hashes": {
+        "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
+        "sha512": "5b51f5d31437d9bfbf221b67459abd87260d284874e1e23b7ed1d522b23a48059a3b1d2c1c541428da35dc6be15561b4f3c7f36aac6df3a0e8db6a278f6b0316"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar"
+      ],
+      "fileSize": 19170905
+    },
+    {
+      "path": "mods/kubejs-forge-2001.6.5-build.26.jar",
+      "hashes": {
+        "sha1": "8b0cc9797d4ed00fd2d1002d58960af8b32012ae",
+        "sha512": "71ef9e5eb5f3bead86b635b42ad305d075c6487e631217b281d938193dcdc5fe0ff6bae8c86dd4e069726223a66e8690c0610f736c5a62910f60fd80edd575c1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/umyGl7zF/versions/hVR2xUSr/kubejs-forge-2001.6.5-build.26.jar"
+      ],
+      "fileSize": 1658792
+    },
+    {
+      "path": "mods/Torcherino-forge-1.20.1-20.0.3.jar",
+      "hashes": {
+        "sha1": "f0e623943c49107b6a0782f5431e5e93073422e4",
+        "sha512": "5690286c05dda8948fd72efd395cbdcda27654934b42d74c4e916cce5092775a0a30a890c0998647ef9c5516526d0b75992fc82e4fe34b76d7cd6e6a20b8ac8c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nrYJaijm/versions/RRlJD0dk/Torcherino-forge-1.20.1-20.0.3.jar"
+      ],
+      "fileSize": 130463
+    },
+    {
+      "path": "mods/MekanismGenerators-1.20.1-10.4.16.80.jar",
+      "hashes": {
+        "sha1": "53fa707fd204ca1dd099a08995c2197145ff9a36",
+        "sha512": "f377ddd719cc5df6b09c81b16467da5ca6645237270c6f81556304585ebaee79030613783418a7b100ed6695857d17ce2d83ecfd123abf309e78ea3c0c2d1d12"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/OFVYKsAk/versions/Th4Czz4N/MekanismGenerators-1.20.1-10.4.16.80.jar"
+      ],
+      "fileSize": 1054586
+    },
+    {
+      "path": "mods/Applied-Mekanistics-1.4.3.jar",
+      "hashes": {
+        "sha1": "8b37889d94b6c1ae5cd31ddde379a1c323c3c501",
+        "sha512": "20db7dca0545a86351627a11b0d6fea0b687f2cd0fac621378b84926196e363d4e42c7d90d40c6d57172dc1dcf5bb98195e25a2c0b90c648008690a759e2e1b5"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IiATswDj/versions/9n9p68Qq/Applied-Mekanistics-1.4.3.jar"
+      ],
+      "fileSize": 185707
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.20.1",
+    "forge": "47.4.20"
+  }
+}

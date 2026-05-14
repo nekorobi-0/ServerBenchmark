@@ -21,3 +21,9 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
 }
+
+tasks.shadowJar {
+    manifest {
+        attributes["Main-Class"] = "org.example.Main"
+    }
+}
